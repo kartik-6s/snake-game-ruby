@@ -1,0 +1,3 @@
+module SnakeGame
+  VERSION: String
+end
