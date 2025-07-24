@@ -35,5 +35,5 @@ game = SnakeGame.new.start_game
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/kartik-6s/snake-game-ruby.
+Bug reports and pull requests are welcome on GitHub at https://github.com/bestborn14/snake-game-ruby.
 
